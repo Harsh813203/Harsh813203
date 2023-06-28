@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kumarharsh32" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="kumarharsh32" height="40" width="40" /></a>
-<a href="https://twitter.com/HarshSi60246030" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" alt="kumarharsh32" height="30" width="30" /></a>  
+<a href="https://twitter.com/HarshSi60246030" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/1200px-Logo_of_Twitter.svg.png" alt="kumarharsh32" height="25" width="25" /></a>  
 </p>
 
 <h2 align="left">✍🏻 About Me:</h2>
