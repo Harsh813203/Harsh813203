@@ -31,7 +31,7 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a  href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1268207088683020288/d9agkn4h_400x400.jpg" alt="mssql" width="40" height="40"/> </a> 
 <a  href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/37EzETO6gZyKmCg2kBIFX1e9gkubxZrVa5fHJ6yOaa7VvEShHjKv2RdtwnZt9Sk258s" height="40"/>  </a>
-<a  href="" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/627ba6588811eca90ffd6f2a/6282a6b9779e0660e527aac1_metabase.png" height="40"/>  </a>
+<a  href="https://www.metabase.com/" target="_blank" rel="noreferrer"> <img src="https://assets.website-files.com/627ba6588811eca90ffd6f2a/6282a6b9779e0660e527aac1_metabase.png" height="40"/>  </a>
   
 </p>
 
